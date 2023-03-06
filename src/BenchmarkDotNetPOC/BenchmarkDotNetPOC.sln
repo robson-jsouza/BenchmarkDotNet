@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkDotNetPOC", "BenchmarkDotNetPOC\BenchmarkDotNetPOC.csproj", "{875B3270-DB81-4B38-A68E-2B44A163A85D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkDotNetPOCTests", "BenchmarkDotNetPOCTests\BenchmarkDotNetPOCTests.csproj", "{F5B32963-F234-4E4F-B843-D9357EEA2AA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875B3270-DB81-4B38-A68E-2B44A163A85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875B3270-DB81-4B38-A68E-2B44A163A85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875B3270-DB81-4B38-A68E-2B44A163A85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875B3270-DB81-4B38-A68E-2B44A163A85D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B32963-F234-4E4F-B843-D9357EEA2AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B32963-F234-4E4F-B843-D9357EEA2AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B32963-F234-4E4F-B843-D9357EEA2AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B32963-F234-4E4F-B843-D9357EEA2AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA8B6B51-3DA5-4BD1-AA1A-8ACA22C9DCA8}
+	EndGlobalSection
+EndGlobal
